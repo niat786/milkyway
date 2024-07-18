@@ -7,7 +7,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-     "vercel-build": "npx @cloudflare/next-on-pages" ,
     "pages:build": "npx @cloudflare/next-on-pages"
   },
   "dependencies": {
