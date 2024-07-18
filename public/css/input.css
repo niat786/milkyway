@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    @apply scroll-smooth;
+}
+
+body {
+    @apply bg-white;
+}
+.h2{
+    @apply text-2xl md:text-3xl my-5;
+}
+
+@font-face {
+    font-family: Gotham Pro;
+    src: url(./fonts/GothamProRegular-6a998196.eot);
+    src: url(./fonts/GothamProRegular-6a998196.eot#iefix) format("embedded-opentype"),url(./fonts/GothamProRegular-70e7ea50.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Gotham Pro;
+    src: url(./fonts/GothamProLight-6e7a2ee1.eot);
+    src: url(./fonts/GothamProLight-6e7a2ee1.eot#iefix) format("embedded-opentype"),url(./fonts/GothamProLight-6aba6334.woff) format("woff");
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Gotham Pro;
+    src: url(./fonts/GothamProItalic-075d10c3.eot);
+    src: url(./fonts/GothamProItalic-075d10c3.eot#iefix) format("embedded-opentype"),url(./fonts/GothamProItalic-12e8f342.woff) format("woff");
+    font-weight: 400;
+    font-style: italic
+}
+
+@font-face {
+    font-family: Gotham Pro;
+    src: url(./fonts/GothamProBold-bf3e95d8.eot);
+    src: url(./fonts/GothamProBold-bf3e95d8.eot#iefix) format("embedded-opentype"),url(./fonts/GothamProBold-2fb79490.woff) format("woff");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Gotham Pro;
+    src: url(./fonts/GothamProMedium-d261e487.eot);
+    src: url(./fonts/GothamProMedium-d261e487.eot#iefix) format("embedded-opentype"),url(./fonts/GothamProMedium-d3bb6c50.woff) format("woff");
+    font-weight: 500;
+    font-style: normal
+}
+
+body {
+    font-family: Gotham Pro;
+}
