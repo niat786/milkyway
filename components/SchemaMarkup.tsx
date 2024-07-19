@@ -8,7 +8,7 @@ const SchemaMarkup = () => {
                 "mainEntity": {
                     "@type": "MobileApplication",
                     "name": "Milkyway Casino App",
-                    "description": "Milkyway Casino offers amazing mobile gaming experience with a variety of casino games available for Android and iOS devices. Download now for free and enjoy the winning!",
+                    "description": "Find the improved Milky Way V. 3. 0 - Download the gaming app for IOS and Android or play games online.",
                     "applicationCategory": "GameApplication",
                     "operatingSystem": ["Android", "iOS"],
                     "offers": {
@@ -22,14 +22,9 @@ const SchemaMarkup = () => {
                         }
                     },
                     "image": [
-                        "https://example.com/path/to/app-icon.png"
+                        "https://milkywayonline.net/og-cover.webp"
                     ],
-                    "url": "http://example.com/milkyway-casino-app",
-                    "aggregateRating": {
-                        "@type": "AggregateRating",
-                        "ratingValue": "0",
-                        "ratingCount": "0"
-                    }
+                    "url": "https://milkywayonline.net"
                 }
             })
         }} />

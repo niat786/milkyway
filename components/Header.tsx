@@ -29,7 +29,7 @@ export const Header = () => {
             <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                 <a href="/" className="flex items-center">
                 <Image
-                src="/images/logo.png"
+                src="/images/logo.webp"
                 className="mr-3 h-14 sm:h-20 w-14 sm:w-20"
                 alt="Milkyway Logo"
                 width={300}
