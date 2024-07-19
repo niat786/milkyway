@@ -14,7 +14,7 @@ export default function Home() {
       <section className=" mx-auto lg:max-w-[96rem] p-2 md:px-4 lg:px-20 ">
         <div className="md:p-8 lg:p-10 p-4 border border-dashed rounded-xl ">
           <h1 className="text-center text-2xl md:text-3xl my-5">
-            Milkyway casino online gamming app | download for Android or IOS
+            Milkyway casino online gaming app | download for Android or IOS
           </h1>
 
           <div className="flex flex-col space-y-2 text-lg">
