@@ -1,3 +1,4 @@
+import JSXStyle from "styled-jsx/style";
 import "../public/css/style.css";
 
 export default function RootLayout({ children }) {
@@ -23,9 +24,9 @@ export default function RootLayout({ children }) {
     <meta name="theme-color" content="#ffffff"/>
 
     <title>Milkyway casino online gaming app | download for Android or IOS</title>
-    <meta name="description" content="Find the improved Milky Way V. 3. 0 - Download the gaming app for IOS and Android or play games online." />
+    <meta name="description" content="Improved Milky Way App V. 3. 0 - Download the gaming app for IOS, Android or play games online." />
     <meta property="og:title" content="Home Page - Milkyway Online" />
-    <meta property="og:description" content="Find the improved Milky Way V. 3. 0 - Download the gaming app for IOS and Android or play games online." />
+    <meta property="og:description" content="Improved Milky Way App V. 3. 0 - Download the gaming app for IOS, Android or play games online." />
     <meta property="og:image" content="/og-cover.webp" />
     <meta property="og:url" content="https://milkywayonline.net/" />
       <body>{children}</body>
