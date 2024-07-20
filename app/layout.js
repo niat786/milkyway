@@ -1,4 +1,3 @@
-import JSXStyle from "styled-jsx/style";
 import "../public/css/style.css";
 
 export default function RootLayout({ children }) {
