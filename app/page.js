@@ -19,11 +19,13 @@ export default function Home() {
 
           <div className="flex flex-col space-y-2 text-lg">
             <p>
-              Find the improved Milky Way V. 3. 0 - the place to be for the
+              Find the improved Milky Way V. 3. 0 gaming app - the place to be for the
               ultimate entertainment! Enjoy timeless elements such as the
               endless promotions, great looks and engaging gameplay, now
               improved for the even more excitement.
+
             </p>
+            <p className="font-semibold tracking-wider text-center">Download for IOS and Android, also you can play games online.</p>
             <div className="flex justify-center py-5 text-center">
               <a href="#play-online-games">
                 <figure>
@@ -41,34 +43,34 @@ export default function Home() {
               </a>
             </div>
             <p>
-              The game such as, Skeleton Dance 3D, 5 Deluxe, Kingdom Of Atlantis
-              and many more new in addition to renewed games. games you love to
-              play such as Hexa Keno and Crab King.
+              The game such as, <strong>Skeleton Dance 3D, 5 Deluxe, Kingdom Of Atlantis</strong>
+              and many more new in addition to renewed games. Games you love to
+              play such as <strong>Hexa Keno and Crab King</strong>.
             </p>
             <p>
-              Also, enjoy the rush of Milky Link Games where players are
-              presented with a lot of action and exciting graphics. graphics.
+              Also, enjoy the rush of <strong>Milky Link Games</strong> where players are
+              presented with a lot of action and exciting graphics.
               Come and try your luck and be the lucky winner in the Milky Way!
             </p>
 
             <p>
               Find the fun Milkyway Casino app that is properly designed for all
-              Android or iOS operating device! ,
+              Android or iOS operating device!
             </p>
             <p>
-              Get started with a load of awesome features offered by the app
+              Get started with a load of awesome features offered by this gaming app
               that include an extensive variety of exhilarating casino games in
               which you can experience whenever and wherever.
             </p>
 
             <p>
               The free app includes everything below - download the Milkyway
-              Casino from your local App Store and join in the cosmic adventure
+              Casino from your local App Store or this platform and join in the cosmic adventure
               now.
             </p>
 
             <p>
-              {" "}
+            
               Milkyway Casino offers an excellent gaming experience for everyone
               whether you are a seasoned veteran or new to the galaxy of online
               casinos. So come and play with us today, Await the cosmic fun to
@@ -139,11 +141,13 @@ export default function Home() {
           className="md:p-8 lg:p-10  p-4 border border-dashed rounded-xl my-10 text-center"
         >
           <h2 className="h2">Best Games</h2>
+          <p>This gaming app offers amazing games for you.</p>
           <p>
-            The game such as, Skeleton Dance 3D, 5 Deluxe, Kingdom Of Atlantis
+            The game such as, <strong>Skeleton Dance 3D, 5 Deluxe, Kingdom Of Atlantis</strong>
             and many more new in addition to renewed games. games you love to
-            play such as Hexa Keno and Crab King.
+            play such as <strong> Hexa Keno and Crab King</strong>.
           </p>
+          
         </div>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-1 md:gap-3 lg:gap-5">
           <div>
@@ -366,7 +370,7 @@ export default function Home() {
                 />
               </svg>
               {/* https://mwjmz.dannilu.com/mzq4zmzhmz   */}
-              &nbsp; Download Milkyway App&nbsp;{" "}
+              &nbsp; Download Milkyway App&nbsp;
             </a>
           </div>
 
