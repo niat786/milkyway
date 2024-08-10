@@ -22,10 +22,10 @@ export default function RootLayout({ children }) {
     <meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png"/>
     <meta name="theme-color" content="#ffffff"/>
 
-    <title>Milky way casino app download (latest version) for Android or IOS</title>
-    <meta name="description" content="Improved Milky Way App V. 3. 0 - Download the gaming app for IOS, Android or play games online." />
+    <title>Milky way casino app download V3.10.0 | Android, IOS</title>
+    <meta name="description" content="Improved Milky Way App V3.10.0 - Download the gaming app for IOS, Android or play games online." />
     <meta property="og:title" content="Home Page - Milkyway Online" />
-    <meta property="og:description" content="Improved Milky Way App V. 3. 0 - Download the gaming app for IOS, Android or play games online." />
+    <meta property="og:description" content="Improved Milky Way App V3.10.0 - Download the gaming app for IOS, Android or play games online." />
     <meta property="og:image" content="/og-cover.webp" />
     <meta property="og:url" content="https://milkywayonline.net/" />
       <body>{children}</body>
