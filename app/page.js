@@ -19,13 +19,14 @@ export default function Home() {
 
           <div className="flex flex-col space-y-2 text-lg">
             <p>
-              Find the improved Milkyway V.3.10.0 gaming app - the place to be for the
-              ultimate entertainment! Enjoy timeless elements such as the
-              endless promotions, great looks and engaging gameplay, now
+              Find the improved Milkyway V.3.10.0 gaming app - the place to be
+              for the ultimate entertainment! Enjoy timeless elements such as
+              the endless promotions, great looks and engaging gameplay, now
               improved for the even more excitement.
-
             </p>
-            <p className="font-semibold tracking-wider text-center">Download for IOS and Android, also you can play games online.</p>
+            <p className="font-semibold tracking-wider text-center">
+              Download for IOS and Android, also you can play games online.
+            </p>
             <div className="flex justify-center py-5 text-center">
               <a href="#play-online-games">
                 <figure>
@@ -42,39 +43,159 @@ export default function Home() {
                 </figure>
               </a>
             </div>
-            <p>
-              The game such as, <strong>Skeleton Dance 3D, 5 Deluxe, Kingdom Of Atlantis</strong>
+            <p className="pb-10">
+              The game such as,{" "}
+              <strong>Skeleton Dance 3D, 5 Deluxe, Kingdom Of Atlantis</strong>
               and many more new in addition to renewed games. Games you love to
               play such as <strong>Hexa Keno and Crab King</strong>.
             </p>
-            <p>
-              Also, enjoy the rush of <strong>Milky Link Games</strong> where players are
-              presented with a lot of action and exciting graphics.
-              Come and try your luck and be the lucky winner in the gaming field!
+
+            <div className="max-w-xl  mx-auto  rounded-xl overflow-hidden  bg-gradient-to-r from-blue-500 to-blue-600 shadow-lg shadow-sky-700/20">
+              <table className=" w-full divide-y table-fixed divide-gray-100 p-10">
+                <thead className="">
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <th className="px-6 py-3 text-left text-white font-medium uppercase tracking-wider">
+                      App info
+                    </th>
+                  </tr>
+                </thead>
+                <tbody className="bg-white divide-y divide-gray-100 rounded-b-lg">
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      Name
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                      Milky Way Casino
+                    </td>
+                  </tr>
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      Version
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                      V3.10.0
+                    </td>
+                  </tr>
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      Requires Android
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                      Android 5.0+
+                    </td>
+                  </tr>
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      File Size
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                      40.9 MB
+                    </td>
+                  </tr>
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      Category
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                      Gamming App
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <p className="pt-10">
+              Also, enjoy the rush of <strong>Milky Link Games</strong> where
+              players are presented with a lot of action and exciting graphics.
+              Come and try your luck and be the lucky winner in the gaming
+              field!
             </p>
 
             <p>
-              Find the fun with this gaming app that is properly designed for all
-              Android or iOS operating device!
+              Find the fun with this gaming app that is properly designed for
+              all Android or iOS operating device!
             </p>
-            <p>
-              Get started with a load of awesome features offered by this gaming app
-              that include an extensive variety of exhilarating casino games in
-              which you can experience whenever and wherever.
+            <p className="pb-10">
+              Get started with a load of awesome features offered by this gaming
+              app that include an extensive variety of exhilarating casino games
+              in which you can experience whenever and wherever.
             </p>
 
-            <p>
+            <div className="max-w-xl  mx-auto  rounded-xl overflow-hidden  bg-gradient-to-r from-blue-500 to-blue-600 shadow-lg shadow-sky-700/20">
+              <table className=" w-full divide-y table-fixed divide-gray-100 p-10">
+                <thead className="">
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <th className="px-6 py-3 text-left text-white font-medium uppercase tracking-wider">
+                      Additional info
+                    </th>
+                  </tr>
+                </thead>
+                <tbody className="bg-white divide-y divide-gray-100 rounded-b-lg">
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      Package Name
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                      com.ultra.panda.casino
+                    </td>
+                  </tr>
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      Languages
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                      English, 72 more
+                    </td>
+                  </tr>
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      Requires Android
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                      Android 5.0+ (Lollipop, API 21)
+                    </td>
+                  </tr>
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      Content Rating
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                      Teen, Simulated Gambling
+                    </td>
+                  </tr>
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      Architecture
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                      arm64-v8a, armeabi-v7a
+                    </td>
+                  </tr>
+                  <tr className="flex flex-col md:flex-row justify-between">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      Permissions
+                    </td>
+                    <td className="md:px-6 px-2 text-xs py-4 whitespace-nowrap text-gray-700 ">
+                      <p>android.permission.INTERNET</p>
+                      <p>android.permission.ACCESS_NETWORK_STATE</p>
+                      <p>com.google.android.gms.permission.AD_ID</p>
+                      <p>android.permission.FOREGROUND_SERVICE</p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <p className="pt-10">
               The free app includes everything below - download the Milkyway
-              Casino app from your local App Store or this platform and join in the cosmic adventure
-              now.
+              Casino app from your local App Store or this platform and join in
+              the cosmic adventure now.
             </p>
 
             <p>
-            
-              The app offers an excellent gaming experience for everyone
-              whether you are a seasoned veteran or new to the galaxy of online
-              casinos. So come and play with us today, Await the cosmic fun to
-              rise.
+              The app offers an excellent gaming experience for everyone whether
+              you are a seasoned veteran or new to the galaxy of online casinos.
+              So come and play with us today, Await the cosmic fun to rise.
             </p>
           </div>
 
@@ -143,11 +264,11 @@ export default function Home() {
           <h2 className="h2">Best Games</h2>
           <p>This gaming app offers amazing games for you.</p>
           <p>
-            The game such as, <strong>Skeleton Dance 3D, 5 Deluxe, Kingdom Of Atlantis</strong>
+            The game such as,{" "}
+            <strong>Skeleton Dance 3D, 5 Deluxe, Kingdom Of Atlantis</strong>
             and many more new in addition to renewed games. games you love to
             play such as <strong> Hexa Keno and Crab King</strong>.
           </p>
-          
         </div>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-1 md:gap-3 lg:gap-5">
           <div>
@@ -302,12 +423,10 @@ export default function Home() {
             <li>
               <strong>Stage 1:</strong> Complete the Player Registration Form
               <br />
-              Get started by filling out your details to join the
-              community.
+              Get started by filling out your details to join the community.
             </li>
             <li>
-              <strong>Stage 2:</strong> Download your favorite gaming App
-              Now!
+              <strong>Stage 2:</strong> Download your favorite gaming App Now!
               <br />
               Head straight to the download page and get the app that suits you
               best.
