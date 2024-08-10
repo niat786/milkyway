@@ -14,12 +14,12 @@ export default function Home() {
       <section className=" mx-auto lg:max-w-[96rem] p-2 md:px-4 lg:px-20 ">
         <div className="md:p-8 lg:p-10 p-4 border border-dashed rounded-xl ">
           <h1 className="text-center text-2xl md:text-3xl my-5">
-            Milky way casino app download (latest version) for Android or IOS
+            Milky way casino app download V3.10.0 | Android, IOS
           </h1>
 
           <div className="flex flex-col space-y-2 text-lg">
             <p>
-              Find the improved Milky Way V. 3. 0 gaming app - the place to be for the
+              Find the improved Milky Way V.3.10.0 gaming app - the place to be for the
               ultimate entertainment! Enjoy timeless elements such as the
               endless promotions, great looks and engaging gameplay, now
               improved for the even more excitement.
