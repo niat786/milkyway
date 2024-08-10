@@ -14,12 +14,12 @@ export default function Home() {
       <section className=" mx-auto lg:max-w-[96rem] p-2 md:px-4 lg:px-20 ">
         <div className="md:p-8 lg:p-10 p-4 border border-dashed rounded-xl ">
           <h1 className="text-center text-2xl md:text-3xl my-5">
-            Milky way casino app download V3.10.0 | Android, IOS
+            Milkyway casino app download V3.10.0 | Android, IOS
           </h1>
 
           <div className="flex flex-col space-y-2 text-lg">
             <p>
-              Find the improved Milky Way V.3.10.0 gaming app - the place to be for the
+              Find the improved Milkyway V.3.10.0 gaming app - the place to be for the
               ultimate entertainment! Enjoy timeless elements such as the
               endless promotions, great looks and engaging gameplay, now
               improved for the even more excitement.
@@ -37,7 +37,7 @@ export default function Home() {
                     className="rounded my-4"
                   />
                   <figcaption className="text-sm">
-                    Play Milky way casino games online
+                    Play Milkyway casino games online
                   </figcaption>
                 </figure>
               </a>
@@ -50,7 +50,7 @@ export default function Home() {
             <p>
               Also, enjoy the rush of <strong>Milky Link Games</strong> where players are
               presented with a lot of action and exciting graphics.
-              Come and try your luck and be the lucky winner in the Milky Way!
+              Come and try your luck and be the lucky winner in the Milkyway!
             </p>
 
             <p>
@@ -302,11 +302,11 @@ export default function Home() {
             <li>
               <strong>Stage 1:</strong> Complete the Player Registration Form
               <br />
-              Get started by filling out your details to join the Milky Way
+              Get started by filling out your details to join the Milkyway
               community.
             </li>
             <li>
-              <strong>Stage 2:</strong> Download your favorite Milky Way App
+              <strong>Stage 2:</strong> Download your favorite Milkyway App
               Now!
               <br />
               Head straight to the download page and get the app that suits you
@@ -326,7 +326,7 @@ export default function Home() {
             <li>
               <strong>Stage 5:</strong> Let the games begin and enjoy!
               <br />
-              Dive into the Milky Way gaming experience and have a blast!
+              Dive into the Milkyway gaming experience and have a blast!
             </li>
             <li>
               <strong>Stage 6:</strong> Stay in the loop!
