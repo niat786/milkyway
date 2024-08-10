@@ -50,11 +50,11 @@ export default function Home() {
             <p>
               Also, enjoy the rush of <strong>Milky Link Games</strong> where players are
               presented with a lot of action and exciting graphics.
-              Come and try your luck and be the lucky winner in the Milkyway!
+              Come and try your luck and be the lucky winner in the gaming field!
             </p>
 
             <p>
-              Find the fun Milkyway Casino app that is properly designed for all
+              Find the fun with this gaming app that is properly designed for all
               Android or iOS operating device!
             </p>
             <p>
@@ -65,13 +65,13 @@ export default function Home() {
 
             <p>
               The free app includes everything below - download the Milkyway
-              Casino from your local App Store or this platform and join in the cosmic adventure
+              Casino app from your local App Store or this platform and join in the cosmic adventure
               now.
             </p>
 
             <p>
             
-              Milkyway Casino offers an excellent gaming experience for everyone
+              The app offers an excellent gaming experience for everyone
               whether you are a seasoned veteran or new to the galaxy of online
               casinos. So come and play with us today, Await the cosmic fun to
               rise.
@@ -265,7 +265,7 @@ export default function Home() {
           className="md:p-8 lg:p-10  p-4 border border-dashed rounded-xl my-10 text-center"
         >
           <h2 className="text-2xl md:text-3xl my-5">
-            Features of Milkyway casino application.
+            Features of Milkyway Gaming App.
           </h2>
           <p>
             Many sepecial games are waiting for you. You can get free turn,
@@ -290,7 +290,7 @@ export default function Home() {
           className="md:p-8 lg:p-10  p-4 border border-dashed rounded-xl my-10 text-center"
         >
           <h2 className="text-2xl md:text-3xl my-5">
-            How to download the Milkyway casino mobile app?
+            How to download the Milkyway mobile app?
           </h2>
           <p>
             Upon downloading, you are required to commence an outer-space trip
@@ -302,11 +302,11 @@ export default function Home() {
             <li>
               <strong>Stage 1:</strong> Complete the Player Registration Form
               <br />
-              Get started by filling out your details to join the Milkyway
+              Get started by filling out your details to join the
               community.
             </li>
             <li>
-              <strong>Stage 2:</strong> Download your favorite Milkyway App
+              <strong>Stage 2:</strong> Download your favorite gaming App
               Now!
               <br />
               Head straight to the download page and get the app that suits you
@@ -370,7 +370,7 @@ export default function Home() {
                 />
               </svg>
               {/* https://mwjmz.dannilu.com/mzq4zmzhmz   */}
-              &nbsp; Download Milkyway App&nbsp;
+              &nbsp; Download The App&nbsp;
             </a>
           </div>
 
