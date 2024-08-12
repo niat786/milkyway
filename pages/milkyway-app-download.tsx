@@ -45,11 +45,11 @@ const MilkywayApk = () => {
               and Crab King, with thrilling updates!
             </p>
 
-            <div className="max-w-xl  mx-auto  rounded-xl border-2 p-1">
-              <table className=" w-full divide-y table-fixed divide-gray-100 p-10 ">
+            <div className="max-w-xl  mx-auto  rounded-xl overflow-hidden  bg-gradient-to-r from-blue-500 to-blue-600 shadow-lg shadow-sky-700/20">
+              <table className=" w-full divide-y table-fixed divide-gray-100 p-10">
                 <thead className="">
                   <tr className="flex flex-col md:flex-row justify-between">
-                    <th className="px-6 py-3 text-left  font-medium text-gray-700 uppercase tracking-wider">
+                    <th className="px-6 py-3 text-left text-white font-medium uppercase tracking-wider">
                       Additional info
                     </th>
                   </tr>
@@ -127,9 +127,8 @@ const MilkywayApk = () => {
           </div>
           <div className="md:p-5 pt-5 w-full" id="play-online-games">
             <a
-              href="http://play.milkywayapp.xyz/game/milkyway/"
-              rel="external nofollow"
-              target="_blank"
+              href="/app-download"
+             
               className="md:w-[29rem] w-full mx-auto h-16 text-[18px] rounded  bg-gradient-to-r from-blue-500 to-blue-600 shadow-lg shadow-blue-700/30 hover:scale-105 duration-500 text-white flex justify-center items-center"
             >
               <svg
@@ -140,41 +139,12 @@ const MilkywayApk = () => {
               >
                 <path
                   fillRule="evenodd"
-                  d="M1.371 8.143c5.858-5.857 15.356-5.857 21.213 0a.75.75 0 0 1 0 1.061l-.53.53a.75.75 0 0 1-1.06 0c-4.98-4.979-13.053-4.979-18.032 0a.75.75 0 0 1-1.06 0l-.53-.53a.75.75 0 0 1 0-1.06Zm3.182 3.182c4.1-4.1 10.749-4.1 14.85 0a.75.75 0 0 1 0 1.061l-.53.53a.75.75 0 0 1-1.062 0 8.25 8.25 0 0 0-11.667 0 .75.75 0 0 1-1.06 0l-.53-.53a.75.75 0 0 1 0-1.06Zm3.204 3.182a6 6 0 0 1 8.486 0 .75.75 0 0 1 0 1.061l-.53.53a.75.75 0 0 1-1.061 0 3.75 3.75 0 0 0-5.304 0 .75.75 0 0 1-1.06 0l-.53-.53a.75.75 0 0 1 0-1.06Zm3.182 3.182a1.5 1.5 0 0 1 2.122 0 .75.75 0 0 1 0 1.061l-.53.53a.75.75 0 0 1-1.061 0l-.53-.53a.75.75 0 0 1 0-1.06Z"
+                  d="M10.5 3.75a6 6 0 0 0-5.98 6.496A5.25 5.25 0 0 0 6.75 20.25H18a4.5 4.5 0 0 0 2.206-8.423 3.75 3.75 0 0 0-4.133-4.303A6.001 6.001 0 0 0 10.5 3.75Zm2.25 6a.75.75 0 0 0-1.5 0v4.94l-1.72-1.72a.75.75 0 0 0-1.06 1.06l3 3a.75.75 0 0 0 1.06 0l3-3a.75.75 0 1 0-1.06-1.06l-1.72 1.72V9.75Z"
                   clipRule="evenodd"
                 />
               </svg>
-              &nbsp; Play Online&nbsp;{" "}
-            </a>
-          </div>
-          <div className="md:p-5 pt-5 flex justify-center space-x-2 md:space-x-10">
-            <a
-              href="https://milkywayonline.net/#download-milkyway-app-android-ios"
-              className="w-52 h-16 text-[18px] rounded bg-gradient-to-r from-blue-500 to-blue-600 shadow-lg shadow-blue-700/30 hover:scale-105 duration-500 text-white flex justify-center items-center"
-            >
-              <svg
-                className="h-8 w-8"
-                fill="#fff"
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 576 512"
-              >
-                <path d="M420.6 301.9a24 24 0 1 1 24-24 24 24 0 0 1 -24 24m-265.1 0a24 24 0 1 1 24-24 24 24 0 0 1 -24 24m273.7-144.5 47.9-83a10 10 0 1 0 -17.3-10h0l-48.5 84.1a301.3 301.3 0 0 0 -246.6 0L116.2 64.5a10 10 0 1 0 -17.3 10h0l47.9 83C64.5 202.2 8.2 285.6 0 384H576c-8.2-98.5-64.5-181.8-146.9-226.6" />
-              </svg>
-              &nbsp; Android&nbsp;{" "}
-            </a>
-            <a
-              href="https://milkywayonline.net/#download-milkyway-app-android-ios"
-              className="w-52 h-16 text-[18px] rounded  bg-gradient-to-r from-blue-500 to-blue-600 shadow-lg shadow-blue-700/30 hover:scale-105 duration-500 text-white flex justify-center items-center"
-            >
-              <svg
-                className="h-8 w-8 "
-                fill="#fff"
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 384 512"
-              >
-                <path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z" />
-              </svg>
-              &nbsp; IOS&nbsp;{" "}
+              {/* https://mwjmz.dannilu.com/mzq4zmzhmz   */}
+              &nbsp; Download The App&nbsp;
             </a>
           </div>
         </div>
