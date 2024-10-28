@@ -25,6 +25,7 @@ export const Header = () => {
   return (
     <>
      <header>
+        
         <nav className=" px-4 lg:px-6 py-3 md:py-0 bg-gradient-to-b from-blue-500 to-blue-600">
             <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                 <a href="/" className="flex items-center">

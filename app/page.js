@@ -291,7 +291,7 @@ export default function Home() {
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
               src="/images/games/777_Fruity_400x300_vXC5U1q.jpg"
-              alt=""
+              alt="Milkyway Casino Android App - 777_Fruity Game"
             />
           </div>
           <div>
@@ -299,8 +299,8 @@ export default function Home() {
               width={200}
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
-              src="/images/games/af.jpg"
-              alt=""
+              src="/images/games/alice-fairy.jpg"
+              alt="Milkyway Casino Android App - alice-fairy Game"
             />
           </div>
           <div>
@@ -309,7 +309,7 @@ export default function Home() {
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
               src="/images/games/Aladdins_Fortune_400x300.jpg"
-              alt=""
+              alt="Milkyway Casino Android App - Aladdins_Fortune Game"
             />
           </div>
           <div>
@@ -317,8 +317,8 @@ export default function Home() {
               width={200}
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
-              src="/images/games/as.jpg"
-              alt=""
+              src="/images/games/air-strike-plus.jpg"
+              alt="Milkyway Casino - air-strike-plus Game"
             />
           </div>
           <div>
@@ -326,8 +326,8 @@ export default function Home() {
               width={200}
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
-              src="/images/games/bkp.jpg"
-              alt=""
+              src="/images/games/bird-king-paradise.jpg"
+              alt="Milkyway Casino - bird-king-paradise Game"
             />
           </div>
           <div>
@@ -335,8 +335,8 @@ export default function Home() {
               width={200}
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
-              src="/images/games/cs.jpg"
-              alt=""
+              src="/images/games/Crocodile-slayer.jpg"
+              alt="Milkyway casino - Crocodile-slayer online game"
             />
           </div>
           <div>
@@ -344,8 +344,8 @@ export default function Home() {
               width={200}
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
-              src="/images/games/ds.jpg"
-              alt=""
+              src="/images/games/dragon-slayer.jpg"
+              alt="dragon-slayer online game"
             />
           </div>
           <div>
@@ -353,8 +353,8 @@ export default function Home() {
               width={200}
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
-              src="/images/games/dsp.jpg"
-              alt=""
+              src="/images/games/dragon-slayer-plus.jpg"
+              alt="dragon-slayer-plus game"
             />
           </div>
           <div>
@@ -362,8 +362,8 @@ export default function Home() {
               width={200}
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
-              src="/images/games/es.jpg"
-              alt=""
+              src="/images/games/Eagle-Strike.jpg"
+              alt="Eagle-Strike.jpg - Milkyway casino games"
             />
           </div>
           <div>
@@ -371,8 +371,8 @@ export default function Home() {
               width={200}
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
-              src="/images/games/ff.jpg"
-              alt=""
+              src="/images/games/ocean-king-frog-frenzy.jpg"
+              alt="ocean-king-frog-frenzy.jpg - game image"
             />
           </div>
           <div>
@@ -380,8 +380,8 @@ export default function Home() {
               width={200}
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
-              src="/images/games/fg.jpg"
-              alt=""
+              src="/images/games/fortune-gold.jpg"
+              alt="fortune-gold game"
             />
           </div>
           <div>
@@ -390,7 +390,7 @@ export default function Home() {
               height={200}
               className="h-auto w-full rounded-lg hover:scale-105 hover:cursor-pointer transition ease-in-out duration-500"
               src="/images/games/Fish_Jackpot_Party_400x300.jpg"
-              alt=""
+              alt="Fish_Jackpot_Party thumbnail - milkyway online games"
             />
           </div>
         </div>
