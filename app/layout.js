@@ -1,10 +1,9 @@
 import "../public/css/style.css";
-import Head from "next/head";
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <Head>
+     
         <link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png"/>
         <link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png"/>
         <link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png"/>
@@ -29,16 +28,6 @@ export default function RootLayout({ children }) {
         <meta property="og:description" content="Improved Milkyway App V3.10.0 - Download the gaming app for IOS, Android or play games online." />
         <meta property="og:image" content="/og-cover.webp" />
         <meta property="og:url" content="https://milkywayonline.net/" />
-  
-        {/* Google Analytics */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-68RGTER070"></script>
-        <script dangerouslySetInnerHTML={{ __html: `
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-68RGTER070');
-        `}} />
-      </Head>
 
       <body>{children}</body>
     </html>
