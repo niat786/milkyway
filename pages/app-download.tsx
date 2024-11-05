@@ -9,8 +9,11 @@ const MilkywayApk = () => {
     <>
       <Head>
         <title>Milkyway App Download - Online Gaming Free </title>
-     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6118596414140722" crossorigin="anonymous"></script>
-
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6118596414140722"
+          crossOrigin="anonymous"
+        ></script>
         <meta
           name="description"
           content="Milkyway app download for free on Android/IOS to play games. Get the latest version V3"

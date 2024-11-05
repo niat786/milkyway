@@ -8,8 +8,11 @@ const MilkywayApk = () => {
     <>
       <Head>
         <title>Milkyway 777 apk download (Latest Version) for Android</title>
-     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6118596414140722" crossorigin="anonymous"></script>
-
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6118596414140722"
+          crossOrigin="anonymous"
+        ></script>
         <meta
           name="description"
           content="Download the Milkyway 777 APK, gaming app for IOS and Android or play games online."
