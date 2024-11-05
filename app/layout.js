@@ -28,6 +28,8 @@ export default function RootLayout({ children }) {
         <meta property="og:description" content="Improved Milkyway App V3.10.0 - Download the gaming app for IOS, Android or play games online." />
         <meta property="og:image" content="/og-cover.webp" />
         <meta property="og:url" content="https://milkywayonline.net/" />
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6118596414140722" crossorigin="anonymous"></script>
+
 
       <body>{children}</body>
     </html>
