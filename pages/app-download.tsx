@@ -87,7 +87,7 @@ const MilkywayApk = () => {
               &nbsp; Android&nbsp;
             </a>
             <a
-              href="https://ngvmytjl.121mai0014.com/03tvqd"
+              href="https://dmz8se5xsdy4t.cloudfront.net/03tvqd"
         
               className="w-52 h-16 text-[18px] rounded  bg-gradient-to-r from-blue-500 to-blue-600 shadow-lg shadow-blue-700/30 hover:scale-105 duration-500 text-white flex justify-center items-center"
             >
